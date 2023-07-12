@@ -1,0 +1,1 @@
+([('main', '/Users/mac/Desktop/Game/Eel app/dist/main', 'EXECUTABLE')],)
